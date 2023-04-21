@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/drawable/my_rectangle.xml" value="0.103" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-larg/activity_main.xml" value="0.3996212121212121" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-larg/directory_selection.xml" value="0.39365671641791045" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-large/activity_main.xml" value="0.16907051282051283" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-large/directory_selection.xml" value="0.16907051282051283" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-large/layout_add.xml" value="0.16907051282051283" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-large/layout_dilog.xml" value="0.1" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-large/layout_sel.xml" value="0.1" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-large/layout_subtration.xml" value="0.33" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-large/layout_unit.xml" value="0.15" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-normal/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-normal/directory_selection.xml" value="0.25" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-normal/layout_add.xml" value="0.15" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-normal/layout_dilog.xml" value="0.22" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-normal/layout_sel.xml" value="0.15" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-normal/layout_subtration.xml" value="0.1" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-normal/layout_unit.xml" value="0.18" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-small/activity_main.xml" value="0.22071129707112971" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-small/directory_selection.xml" value="0.3996212121212121" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-small/layout_add.xml" value="0.3996212121212121" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-small/layout_dilog.xml" value="0.3996212121212121" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-small/layout_sel.xml" value="0.4652317880794702" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-small/layout_subtration.xml" value="0.3996212121212121" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-small/layout_unit.xml" value="0.3996212121212121" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-xlarg/activity_main.xml" value="0.3996212121212121" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-xlarge/directory_selection.xml" value="0.18" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-xlarge/layout_add.xml" value="0.1" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-xlarge/layout_dilog.xml" value="0.1" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-xlarge/layout_sel.xml" value="0.1" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-xlarge/layout_subtration.xml" value="0.1" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout-xlarge/layout_unit.xml" value="0.16" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout/activity_main.xml" value="0.6160714285714286" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout/directory_selection.xml" value="1.1" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout/layout_add.xml" value="0.9" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout/layout_dilog.xml" value="0.1" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout/layout_sel.xml" value="0.75" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout/layout_subtration.xml" value="0.1" />
+        <entry key="..\:/Users/Yurii/AndroidStudioProjects/children_1/app/src/main/res/layout/layout_unit.xml" value="0.67" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

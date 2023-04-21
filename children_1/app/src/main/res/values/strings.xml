@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Развивашка</string>
+    <string name="button_main">Начать</string>
+    <string name="text_directory_selection">Выберите одну из предложенных игр и нажмите на картинку, чтобы запустить игру.</string>
+    <string name="text_selection">Выберите большее</string>
+    <string name="text_add">Сложение чисел</string>
+    <string name="text_subtraction">Вычитание чисел</string>
+    <string name="text_unit">Единицы измерений</string>
+    <string name="button_back">Назад</string>
+    <string name="title_add">Сложение</string>
+    <string name="game_points">Игровые баллы:</string>
+    <string name="description_add">Введите с помощью кнопок результат и нажмите "Ввод"</string>
+    <string name="enter_add">Ввод</string>
+    <string name="text_description_true">Поздравляю!!! Ответ правильный. +2 балла</string>
+    <string name="text_description_false">Ответ неправильный. Попробуйте ещё. -1 балл</string>
+    <string name="text_description_true_sub">Поздравляю!!! Ответ правильный. +3 балла</string>
+    <string name="text_description_false_sub">Ответ неправильный. Попробуйте ещё. -2 балла</string>
+    <string name="example">Показать пример</string>
+    <string name="text_setting">Введите вторую цифру</string>
+    <string name="counter">0</string>
+    <string name="title_subtraction">Вычитание</string>
+    <string name="title_selection">Сравнение</string>
+    <string name="button_next_sel">Показать картинки</string>
+    <string name="description_sel">Опеределите что(кто) больше и коснитесь этой картинки</string>
+    <string name="text_description_true_sel">Поздравляю!!! Ответ правильный. +1 балл</string>
+    <string name="text_description_false_sel">Ответ неправильный. Попробуйте ещё. -1 балл</string>
+    <string name="text_description_true_unit">Поздравляю!!! Ответ правильный. +4 балла</string>
+    <string name="text_description_false_unit">Ответ неправильный. Попробуйте ещё. -2 балла</string>
+    <string name="currant">Смородина</string>
+    <string name="cherry">Вишня</string>
+    <string name="plum">Слива</string>
+    <string name="apple">Яблоко</string>
+    <string name="hedgehog">Ёжик</string>
+    <string name="roller">Ролики</string>
+    <string name="watermelon">Арбуз</string>
+    <string name="hare">Заяц</string>
+    <string name="giroskyter">Гироскутер</string>
+    <string name="wolf">Волк</string>
+    <string name="bike">Велосипед</string>
+    <string name="moto">Мотоцикл</string>
+    <string name="hippo">Бегемот</string>
+    <string name="auto_small">Автомобиль</string>
+    <string name="elephant">Слон</string>
+    <string name="auto_big">Самосвал</string>
+    <string name="airplane">Самолет</string>
+    <string name="liner">Корабль</string>
+    <string name="mouse">Мышь</string>
+    <string name="bear">Медведь</string>
+    <string name="title_picture">Название изображения</string>
+    <string name="title_unit">Единицы измерения</string>
+    <string name="description_unit">Опеределите к какой из единиц измерений принадлежит</string>
+    <string name="btn_back_dialog">Вернуться в меню выбора игры</string>
+    <string name="text_max_dialog">Поздаравляю!\n Отличный результат, максимальное количество баллов</string>
+    <string name="text_norm_dialog">Максимальное количество баллов 20\n Вы набрали меньше</string>
+    <string name="text_norm_dialog1">Максимальное количество баллов 40\n Вы набрали меньше</string>
+    <string name="text_norm_dialog2">Максимальное количество баллов 60\n Вы набрали меньше</string>
+    <string name="text_norm_dialog3">Максимальное количество баллов 80\n Вы набрали меньше</string>
+
+
+
+
+
+
+</resources>
